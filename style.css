@@ -24,7 +24,7 @@ body {
 .cartao__conteudo {
     text-align: center;
     height: 100%;
-    background-color: ;
+    background-color: var(--text-color);
 }
 
 .cartao__conteudo h3 {
