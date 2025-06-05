@@ -21,9 +21,9 @@ criaCartao (
     'O que é JavaScript?',
     'JavaScript é uma linguagem de programação'
 )
-CriaCartao(
-    'Lingua Inglesa',
-    'Como se diz Oi em inglês',
-    'Oi em ingles é HI (rai)'
 
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz OI em inglês?',
+    'Oi em inglês é HI (rai)'
 )
